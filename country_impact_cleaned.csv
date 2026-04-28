@@ -1,0 +1,18 @@
+Country,Region,Oil_Import_Pct,GDP_Impact_Pct,Inflation_Risk,Stock_Market_Change,Currency_Pressure,Policy_Response,Vulnerability,Population_M,Inflation_Score,Currency_Score,Vulnerability_Score,Impact_Score,Category,Market Shock
+Pakistan,South Asia,85,-1.8,Very High,-4.2,Severe,Emergency fuel price hike,Critical,240,4,4,4,612,Loser,4
+India,South Asia,85,-1.2,High,-3.1,High,Strategic reserves released; prices frozen,High,1440,3,3,3,306,Loser,3
+Bangladesh,South Asia,95,-2.0,Very High,-3.8,Severe,University closures to save electricity,Critical,175,4,4,4,760,Loser,4
+Sri Lanka,South Asia,100,-2.5,Very High,-5.0,Severe,Rationing measures introduced,Critical,22,4,4,4,1000,Loser,5
+Nepal,South Asia,100,-1.5,High,-2.8,High,Price adjustment; subsidies for transport,High,30,3,3,3,450,Loser,3
+China,East Asia,72,-0.8,Moderate,-2.5,Moderate,Strategic petroleum reserve drawdown,Moderate,1425,2,2,2,115,Loser,3
+Japan,East Asia,90,-1.3,High,-5.1,High,Fuel subsidies extended,High,124,3,3,3,351,Loser,5
+South Korea,East Asia,92,-1.4,High,-6.0,High,Domestic fuel price caps implemented,High,52,3,3,3,386,Loser,6
+Turkey,Europe/Asia,89,-1.6,Very High,-4.5,Severe,Emergency economic measures,High,86,4,4,3,570,Loser,5
+Germany,Europe,65,-0.6,Moderate,-3.5,Low,Energy diversification accelerated,Moderate,84,2,1,2,78,Loser,4
+United Kingdom,Europe,45,-0.5,Moderate,-2.9,Low,North Sea production increase planned,Moderate,68,2,1,2,45,Loser,3
+United States,North America,5,-0.3,Moderate,-2.0,Low,SPR release; shale production ramp-up,Low,340,2,1,1,3,Loser,2
+Saudi Arabia,Middle East,0,1.5,Low,-1.2,Low,Red Sea export rerouting,Low,37,1,1,1,0,Winner,1
+UAE,Middle East,0,0.8,Low,-1.5,Low,Production cuts due to export constraints,Low,10,1,1,1,0,Winner,2
+Iran,Middle East,0,-8.0,Extreme,-15.0,Extreme,Military retaliation; Hormuz closure,Critical,90,5,5,4,0,Loser,15
+Australia,Oceania,70,-0.7,High,-3.2,Moderate,Inflation expected near 5%; petrol +$1/L,Moderate,27,3,2,2,147,Loser,3
+Egypt,Africa,40,-1.5,Very High,-4.0,Severe,Fuel subsidy concerns,High,110,4,4,3,240,Loser,4

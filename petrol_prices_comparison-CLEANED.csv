@@ -1,0 +1,15 @@
+Country,Region,Before_War_Price,March_7_Price,Amount_Change,Percentage_Change,Trend,Oil_Import_Dependency,,Impact_Level,Impact Score
+Pakistan,South Asia,266.17,321.17,55,20.66,Increase,High,,High Impact,61.98
+India,South Asia,94.77,94.77,0,0,Stable,High,,Low Impact,0
+Bangladesh,South Asia,125,130,5,4,Increase,High,,Low Impact,12
+Afghanistan,South Asia,57,57,0,0,Stable,High,,Low Impact,0
+Nepal,South Asia,186,190,4,2.15,Increase,High,,Low Impact,6.45
+Sri Lanka,South Asia,365,370,5,1.37,Increase,High,,Low Impact,4.11
+Turkey,Europe/Asia,41,43,2,4.88,Increase,High,,Low Impact,14.64
+Iran,Middle East,0.3,0.32,0.02,6.67,Increase,Low,,Medium Impact,6.67
+Saudi Arabia,Middle East,0.62,0.66,0.04,6.45,Increase,Low,,Medium Impact,6.45
+UAE,Middle East,0.65,0.68,0.03,4.62,Increase,Low,,Low Impact,4.62
+China,East Asia,1.2,1.26,0.06,5,Increase,High,,Low Impact,15
+United Kingdom,Europe,1.78,1.85,0.07,3.93,Increase,Medium,,Low Impact,7.86
+Germany,Europe,1.82,1.89,0.07,3.85,Increase,Medium,,Low Impact,7.7
+USA,North America,0.85,0.9,0.05,5.88,Increase,Low,,Medium Impact,5.88
